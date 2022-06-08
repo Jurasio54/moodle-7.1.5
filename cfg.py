@@ -1,2 +1,2 @@
 TOKEN = '5561459520:AAGfGmDlMktSiW_38fu8DugO7iPKtKbwhK4'
-ADMIN = 'Rrtige,demian2008'
+ADMIN = 'Rrtige'
